@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13ux4jYMYGaf9zJkLXDxApU3ukDmbhHDX/view](https://drive.google.com/file/d/1OYVbSo_9opbq_g7THOYBItmckceAf8rH/view?usp=sharing)
 
-- ⚡ Fun fact **Did you know that I am a fan of pizza so much that I once tried to classify different toppings based on my flavor profile using machine learning algorithms? The result was delicious - both for my taste buds and for my data science portfolio!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
